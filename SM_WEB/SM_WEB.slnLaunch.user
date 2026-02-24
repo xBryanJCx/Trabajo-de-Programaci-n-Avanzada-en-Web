@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "SM_WEB\\SM_WEB.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SM_API\\SM_API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
